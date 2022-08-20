@@ -1,18 +1,16 @@
 C:\Git\UnrealToyProject\UnrealToyProject\Source\UnrealToyProject\UnrealToyProjectGameModeBase.cpp
 /I .
-/I C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealToyProject
-/I C:\Git\UnrealToyProject\UnrealToyProject\Source
-/I Runtime
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
-/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
+/I Runtime
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline
 /I Runtime\CoreOnline\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
+/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -253,6 +251,8 @@ C:\Git\UnrealToyProject\UnrealToyProject\Source\UnrealToyProject\UnrealToyProjec
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
+/I C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealToyProject
+/I C:\Git\UnrealToyProject\UnrealToyProject\Source
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
