@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Git\\UnrealToyProject\\UnrealToyProject\\Source\\UnrealToyProject\\UnrealToyProject.Build.cs",
+		"C:\\Git\\UnrealToyProject\\UnrealToyProject\\Source\\UnrealToyProject.Target.cs",
+		"C:\\Git\\UnrealToyProject\\UnrealToyProject\\Source\\UnrealToyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
