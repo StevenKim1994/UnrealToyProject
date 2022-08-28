@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeUnrealToyProject_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x67F58E86,
-				0xC3A6F9DF,
+				0x4E7F3808,
+				0x6B01A3E9,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_UnrealToyProject.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_UnrealToyProject.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_UnrealToyProject(Z_Construct_UPackage__Script_UnrealToyProject, TEXT("/Script/UnrealToyProject"), Z_Registration_Info_UPackage__Script_UnrealToyProject, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x67F58E86, 0xC3A6F9DF));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_UnrealToyProject(Z_Construct_UPackage__Script_UnrealToyProject, TEXT("/Script/UnrealToyProject"), Z_Registration_Info_UPackage__Script_UnrealToyProject, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4E7F3808, 0x6B01A3E9));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

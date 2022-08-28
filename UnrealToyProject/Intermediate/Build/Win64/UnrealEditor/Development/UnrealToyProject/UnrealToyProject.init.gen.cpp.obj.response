@@ -1,35 +1,35 @@
-D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealToyProject\UnrealToyProject.init.gen.cpp
+C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealToyProject\UnrealToyProject.init.gen.cpp
 /I .
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Slate
 /I Runtime
+/I Runtime\Slate\Public
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
+/I Runtime\CoreUObject\Public
+/I Runtime\ApplicationCore\Public
+/I Runtime\RHI\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\InputCore
+/I Runtime\InputCore\Classes
+/I Runtime\InputCore\Public
+/I Runtime\Json\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\SlateCore
+/I Runtime\SlateCore\Public
+/I Runtime\ImageWrapper\Public
+/I ThirdParty
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline
 /I Runtime\CoreOnline\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
-/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
 /I Runtime\Net\Core\Public
 /I Runtime\Net\Common\Public
-/I Runtime\ApplicationCore\Public
-/I Runtime\RHI\Public
-/I Runtime\Json\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\JsonUtilities
 /I Runtime\JsonUtilities\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\SlateCore
-/I Runtime\SlateCore\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\InputCore
-/I Runtime\InputCore\Classes
-/I Runtime\InputCore\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Slate
-/I Runtime\Slate\Public
-/I Runtime\ImageWrapper\Public
-/I ThirdParty
 /I Runtime\Messaging\Public
 /I Runtime\MessagingCommon\Public
 /I Runtime\RenderCore\Public
@@ -251,8 +251,8 @@ D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\I
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealToyProject
-/I D:\Git\UnrealToyProject\UnrealToyProject\Source
+/I C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealToyProject
+/I C:\Git\UnrealToyProject\UnrealToyProject\Source
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -269,16 +269,16 @@ D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\I
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealToyProject\Definitions.UnrealToyProject.h"
-/Yu"D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealToyProject\UnrealToyProject.init.gen.cpp.obj"
-/sourceDependencies D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealToyProject\UnrealToyProject.init.gen.cpp.json
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealToyProject\Definitions.UnrealToyProject.h"
+/Yu"C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealToyProject\UnrealToyProject.init.gen.cpp.obj"
+/sourceDependencies C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealEditor\Development\UnrealToyProject\UnrealToyProject.init.gen.cpp.json
 /Zc:inline
 /nologo
 /Oi

@@ -1,4 +1,4 @@
-D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp
+C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
 /I Runtime
@@ -271,14 +271,14 @@ D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProje
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
 /I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/Yc"D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-/sourceDependencies D:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.json
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/Yc"C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+/sourceDependencies C:\Git\UnrealToyProject\UnrealToyProject\Intermediate\Build\Win64\UnrealToyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.json
 /Zc:inline
 /nologo
 /Oi

@@ -32,6 +32,12 @@
     <ClInclude Include="..\..\Source\UnrealToyProject\MyActor.h">
       <Filter>Source\UnrealToyProject</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealToyProject\UMGPlayerController.cpp">
+      <Filter>Source\UnrealToyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealToyProject\UMGPlayerController.h">
+      <Filter>Source\UnrealToyProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UnrealToyProject\UnrealToyProject.Build.cs">
       <Filter>Source\UnrealToyProject</Filter>
     </None>

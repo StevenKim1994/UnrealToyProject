@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "UnrealToyProject",
-			"Path": "D:\\Git\\UnrealToyProject\\UnrealToyProject\\Source\\UnrealToyProject.Target.cs",
+			"Path": "C:\\Git\\UnrealToyProject\\UnrealToyProject\\Source\\UnrealToyProject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "UnrealToyProjectEditor",
-			"Path": "D:\\Git\\UnrealToyProject\\UnrealToyProject\\Source\\UnrealToyProjectEditor.Target.cs",
+			"Path": "C:\\Git\\UnrealToyProject\\UnrealToyProject\\Source\\UnrealToyProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

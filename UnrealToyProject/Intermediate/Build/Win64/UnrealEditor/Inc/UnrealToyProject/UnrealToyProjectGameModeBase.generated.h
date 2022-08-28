@@ -8,14 +8,23 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UUserWidget;
 #ifdef UNREALTOYPROJECT_UnrealToyProjectGameModeBase_generated_h
 #error "UnrealToyProjectGameModeBase.generated.h already included, missing '#pragma once' in UnrealToyProjectGameModeBase.h"
 #endif
 #define UNREALTOYPROJECT_UnrealToyProjectGameModeBase_generated_h
 
 #define FID_UnrealToyProject_Source_UnrealToyProject_UnrealToyProjectGameModeBase_h_15_SPARSE_DATA
-#define FID_UnrealToyProject_Source_UnrealToyProject_UnrealToyProjectGameModeBase_h_15_RPC_WRAPPERS
-#define FID_UnrealToyProject_Source_UnrealToyProject_UnrealToyProjectGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_UnrealToyProject_Source_UnrealToyProject_UnrealToyProjectGameModeBase_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execChangeMenuWidget);
+
+
+#define FID_UnrealToyProject_Source_UnrealToyProject_UnrealToyProjectGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execChangeMenuWidget);
+
+
 #define FID_UnrealToyProject_Source_UnrealToyProject_UnrealToyProjectGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAUnrealToyProjectGameModeBase(); \
